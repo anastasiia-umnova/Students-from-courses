@@ -5,7 +5,7 @@
 
 # Входные данные
 
-В качестве входных данных - база данных по ученикам, включающая 11 таблиц (https://disk.yandex.ru/d/W6t4WFTWmqNE2g). 
+В качестве входных данных служит база данных по ученикам, включающая 11 таблиц (users.csv, course_users.csv, courses.csv, course_types.csv, lessons.csv, subjects.csv, cities.csv, homework_done.csv, homework.csv, homework_lessons.csv, user_roles.csv) (https://disk.yandex.ru/d/W6t4WFTWmqNE2g). 
 
 Схема базы данных – db_schema.jpg (https://disk.yandex.ru/i/KD76DFv8gEkVQQ).
 
