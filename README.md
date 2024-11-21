@@ -6,6 +6,7 @@
 # Входные данные
 
 В качестве входных данных - база данных по ученикам, включающая 11 таблиц (https://disk.yandex.ru/d/W6t4WFTWmqNE2g). 
+
 Схема базы данных – db_schema.jpg (https://disk.yandex.ru/i/KD76DFv8gEkVQQ).
 
 
